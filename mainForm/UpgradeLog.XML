@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mainForm">
+</Property><Property Name="Solution File" Value="C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\mainForm.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\mainForm.suo">
+</Property><Property Name="Date" Value="Wednesday, January 23, 2013">
+</Property><Property Name="Time" Value="14:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mainForm.sln" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mainForm.suo" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm.suo">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\mainForm.csproj" Description="Project file successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\mainForm.csproj">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Admin.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Admin.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Admin.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Admin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\AmountAdd.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\AmountAdd.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\AmountAdd.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\AmountAdd.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\CreateUser.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\CreateUser.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\CreateUser.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\CreateUser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\IDForm.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\IDForm.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\IDForm.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\IDForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Purchase.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Purchase.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Purchase.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Purchase.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Reshop.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Reshop.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Reshop.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Reshop.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\ShoppingConform.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\ShoppingConform.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\ShoppingConform.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\ShoppingConform.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\UserForm.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\UserForm.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\UserForm.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\UserForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Program.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Program.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Admin.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Admin.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\AmountAdd.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\AmountAdd.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\CreateUser.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\CreateUser.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\IDForm.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\IDForm.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Purchase.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Purchase.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\Reshop.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\Reshop.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\ShoppingConform.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\ShoppingConform.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\UserForm.resx" Description="File successfully backed up as C:\Users\Deepu\Desktop\tg\Barcodeproj\final\mainForm\Backup\mainForm\UserForm.resx">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\mainForm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mainForm" Source="mainForm\mainForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mainForm.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mainForm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mainForm" Source="mainForm\mainForm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
